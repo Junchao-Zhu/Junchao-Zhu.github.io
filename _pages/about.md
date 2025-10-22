@@ -52,4 +52,36 @@ Advisors: Dr. Jing Ke and Prof. Hui Lu
 Jing Ke, Yizhou Lu, Yiqing Shen, *Junchao Zhu*, et al., **Medical Image Analysis, 2023**  
 [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841523000191)
 
+## 💼 Professional Experience
 
+**Ph.D. Intern – Data Science & Digital Health (DSAI)**, Johnson & Johnson(May 2025 – Aug 2025)  
+- Working on Vision–Language Models and multimodal foundation models for spatial transcriptomics.  
+- Developing hierarchical alignment frameworks between vision and omics modalities.  
+- Collaborating with the digital pathology team to explore large-scale deployment of multimodal AI in biomedical imaging.
+
+**Graduate Research Assistant**, Vanderbilt University (Aug. 2024 – present)  
+- Developing 3D-aware spatial transcriptomics models for multi-section data reconstruction.  
+- Building high-resolution spatial omics benchmarks.  
+- Exploring quantization and efficient deployment of medical segmentation networks.
+
+**Research Assistant**, Shanghai Jiao Tong University (Sep. 2021 – May 2024)  
+- Proposed *TCSegNet* and *ClusterSeg* frameworks for thyroid cytology analysis.  
+- Constructed one of the first multi-label thyroid cytology datasets.  
+- Designed end-to-end diagnosis pipeline integrating segmentation and classification.
+
+## 🏆 Honors & Awards
+- 🧠 MIDL 2025 Travel Award  
+- 🥇 Gold Medal & Best Software Project Nominee — iGEM Competition, 2021  
+- ⚾ 2nd Place — Shanghai Collegiate Baseball Championship, 2024
+- 🧮 3rd Prize — 13th Chinese College Students Mathematics Competition  
+- 🎓 Jingding Biology Strengthening Basic Disciplines Program Scholarship  
+- ✈ Graduate School Travel Grant — Vanderbilt University, 2024–2025
+
+---
+
+## Technical Skills
+
+**Programming:** Python, MATLAB, R, LaTeX  
+**Frameworks:** PyTorch, Keras  
+**Tools:** Linux, Git, VS Code, PyCharm  
+**Languages:** Chinese, English
