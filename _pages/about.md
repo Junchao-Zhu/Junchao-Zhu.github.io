@@ -25,7 +25,7 @@ Advisors: Dr. Jing Ke and Prof. Hui Lu
 
 ## 📰 News
 - **[Oct. 2025]** Our survey paper *“Computer Vision Methods for Spatial Transcriptomics: A Survey”* is now available on *bioRxiv*.  
-- **[Jul. 2025]** Two papers were accepted for **oral presentation** at **MIDL 2025**.  
+- **[Jul. 2025]** Two papers were accepted for **Oral presentation** at **MIDL 2025**.  
 - **[Feb. 2025]** One paper was accepted to **CVPR 2025**.  
 - **[Oct. 2024]** One paper was accepted to **SPIE Medical Imaging 2025**.  
 - **[Jun. 2023]** One paper was accepted to **MICCAI 2023**.  
