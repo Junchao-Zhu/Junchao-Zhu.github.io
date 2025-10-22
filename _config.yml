@@ -23,14 +23,14 @@ repository               : "Junchao-Zhu/Junchao-Zhu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "fig.jpg"
+  name             : "Junchao Zhu"
+  pronouns         : "he/him"
+  bio              : "Ph.D. student in Computer Science @ Vanderbilt University. Researching computational pathology, spatial transcriptomics, and vision-language models."
+  location         : "Nashville, TN, USA"
+  employer         : "Vanderbilt University"
+  uri              : "https://junchao-zhu.github.io"
+  email            : "junchao.zhu[at]vanderbilt.edu"
 
   # Academic websites
   academia         : # URL
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Junchao-Zhu"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "junchao-zhu-737843353"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
