@@ -23,7 +23,7 @@ repository               : "Junchao-Zhu/Junchao-Zhu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Profile.png"
+  avatar           : "Profile.png"
   name             : "Junchao Zhu"
   pronouns         : "he/him"
   bio: |
