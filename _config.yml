@@ -23,7 +23,7 @@ repository               : "Junchao-Zhu/Junchao-Zhu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile.png"
+  avatar           : "images/Profile.png"
   name             : "Junchao Zhu"
   pronouns         : "he/him"
   bio: |
@@ -56,7 +56,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : # Username 
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
