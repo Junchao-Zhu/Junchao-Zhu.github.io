@@ -22,19 +22,27 @@ Advisor: Prof. Yuankai Huo
 B.Sc. in Bioscience, Minor in Automation, Shanghai Jiao Tong University  
 Advisors: Dr. Jing Ke and Prof. Hui Lu
 
+
+## 📰 News
+- **[Oct. 2025]** Our survey paper *“Computer Vision Methods for Spatial Transcriptomics: A Survey”* is now available on *bioRxiv*.  
+- **[Jul. 2025]** Two papers were accepted for **oral presentation** at **MIDL 2025**.  
+- **[Feb. 2025]** One paper was accepted to **CVPR 2025**.  
+- **[Oct. 2024]** One paper was accepted to **SPIE Medical Imaging 2025**.  
+- **[Jun. 2023]** One paper was accepted to **MICCAI 2023**.  
+- **[Jan. 2023]** One paper was accepted to **Medical Image Analysis**.
+
 ## 📝 Selected Publications
+**Computer Vision Methods for Spatial Transcriptomics: A Survey**  
+*Junchao Zhu*, Ruining Deng, Tianyuan Yao, et al., *bioRxiv, 2025*  
+[Paper](https://www.biorxiv.org/content/10.1101/2025.10.13.682148v1.full.pdf)
 
 **ASIGN: Anatomy-aware Spatial Imputation Graph Network for 3D Spatial Transcriptomics**  
 *Junchao Zhu*, Ruining Deng, Tianyuan Yao, et al., **CVPR 2025**  
-[Paper](https://arxiv.org/abs/2412.03026) | [Code](https://github.com/hrlblab/ASIGN)
+[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_ASIGN_An_Anatomy-aware_Spatial_Imputation_Graphic_Network_for_3D_Spatial_CVPR_2025_paper.html) | [Code](https://github.com/hrlblab/ASIGN)
 
 **MagNet: Multi-Level Attention Graph Network for High-Resolution Spatial Transcriptomics**  
 *Junchao Zhu*, Ruining Deng, Tianyuan Yao, et al., **MIDL 2025 (Oral)**  
 [Paper](https://arxiv.org/abs/2502.21011) | [Code](https://github.com/Junchao-Zhu/MagNet)
-
-**Cross-Species Data Integration for Enhanced Layer Segmentation in Kidney Pathology**  
-*Junchao Zhu*, Mengmeng Yin, Ruining Deng, et al., **SPIE Medical Imaging 2025**  
-[Paper](https://arxiv.org/abs/2408.09278)
 
 **TCSegNet: An Anti-Biased Thyroid Cytology Segmentation Framework**  
 *Junchao Zhu*, Yiqing Shen, Haolin Zhang, Jing Ke, **MICCAI 2023**  
@@ -42,6 +50,6 @@ Advisors: Dr. Jing Ke and Prof. Hui Lu
 
 **ClusterSeg: A Crowd Cluster Pinpointed Nucleus Segmentation Framework with Cross-Modality Dataset**  
 Jing Ke, Yizhou Lu, Yiqing Shen, *Junchao Zhu*, et al., **Medical Image Analysis, 2023**  
-[Paper](https://www.sciencedirect.com/science/article/pii/S1361841523000191)
+[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841523000191)
 
 
