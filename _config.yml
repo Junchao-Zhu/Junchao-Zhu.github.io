@@ -26,9 +26,8 @@ author:
   avatar           : "Profile.png"
   name             : "Junchao Zhu"
   pronouns         : "he/him"
-  bio: |
-    CS Ph.D. student @ Vanderbilt University.
-    B.Sc. @ Shanghai Jiao Tong University
+  bio: "CS Ph.D. student @ Vanderbilt University.<br>B.Sc. @ Shanghai Jiao Tong University"
+
   location         : "Nashville, TN, USA"
   employer         : "Vanderbilt University"
   uri              : "https://junchao-zhu.github.io"
