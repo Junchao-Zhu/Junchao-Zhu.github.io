@@ -32,7 +32,7 @@ author:
   location         : "Nashville, TN, USA"
   employer         : "Vanderbilt University"
   uri              : "https://junchao-zhu.github.io"
-  email            : "junchao.zhu[at]vanderbilt.edu"
+  email            : "junchao.zhu@vanderbilt.edu"
 
   # Academic websites
   academia         : # URL
@@ -40,9 +40,9 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -56,7 +56,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username 
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
