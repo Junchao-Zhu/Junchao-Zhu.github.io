@@ -32,27 +32,27 @@ Advisors: Dr. Jing Ke and Prof. Hui Lu
 
 ## 📝 Selected Publications
 **Computer Vision Methods for Spatial Transcriptomics: A Survey**  
-*Junchao Zhu*, Ruining Deng, Tianyuan Yao, et al., *bioRxiv, 2025*  
+*Junchao Zhu*, Ruining Deng, Tianyuan Yao, et al., **bioRxiv, 2025**   
 [Paper](https://www.biorxiv.org/content/10.1101/2025.10.13.682148v1.full.pdf)
 
-**ASIGN: Anatomy-aware Spatial Imputation Graph Network for 3D Spatial Transcriptomics**  
+**ASIGN: An Anatomy-aware Spatial Imputation Graphic Network for 3D Spatial Transcriptomics**  
 *Junchao Zhu*, Ruining Deng, Tianyuan Yao, et al., **CVPR 2025**  
 [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_ASIGN_An_Anatomy-aware_Spatial_Imputation_Graphic_Network_for_3D_Spatial_CVPR_2025_paper.html) | [Code](https://github.com/hrlblab/ASIGN)
 
-**MagNet: Multi-Level Attention Graph Network for High-Resolution Spatial Transcriptomics**  
+**MagNet: Multi-Level Attention Graph Network for Predicting High-Resolution Spatial Transcriptomics**  
 *Junchao Zhu*, Ruining Deng, Tianyuan Yao, et al., **MIDL 2025 (Oral)**  
 [Paper](https://arxiv.org/abs/2502.21011) | [Code](https://github.com/Junchao-Zhu/MagNet)
 
-**TCSegNet: An Anti-Biased Thyroid Cytology Segmentation Framework**  
+**TCSegNet: An Anti-biased TBSRTC-Category Aware Nuclei Segmentation Framework with a Multi-label Thyroid Cytology Benchmark**  
 *Junchao Zhu*, Yiqing Shen, Haolin Zhang, Jing Ke, **MICCAI 2023**  
 [Paper](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_56) | [Code](https://github.com/Junchao-Zhu/TCSegNet)
 
-**ClusterSeg: A Crowd Cluster Pinpointed Nucleus Segmentation Framework with Cross-Modality Dataset**  
+**ClusterSeg: A crowd cluster pinpointed nucleus segmentation framework with cross-modality datasets**  
 Jing Ke, Yizhou Lu, Yiqing Shen, *Junchao Zhu*, et al., **Medical Image Analysis, 2023**  
 [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841523000191)
 
 ## 💼 Professional Experience
-**Ph.D. Intern – Data Science & Digital Health (DSAI)**, Johnson & Johnson(May 2025 – Aug 2025)  
+**Ph.D. Intern – Data Science & Digital Health (DSAI)**, Johnson & Johnson (May 2025 – Aug 2025)  
 - Working on Vision–Language Models and multimodal foundation models for spatial transcriptomics.  
 - Developing hierarchical alignment frameworks between vision and omics modalities.  
 - Collaborating with the digital pathology team to explore large-scale deployment of multimodal AI in biomedical imaging.
