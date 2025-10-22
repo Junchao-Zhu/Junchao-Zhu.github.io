@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 I am currently a first-year Ph.D. student in Computer Science at Vanderbilt University, supervised by Prof. Yuankai Huo.
 My research interests lie in medical image analysis, vision-language models, and computer vision, with a particular focus on developing efficient and interpretable deep learning frameworks for large-scale pathology image processing.
 Before joining Vanderbilt, I received my B.S. degree from the School of Life Sciences and Biotechnology at Shanghai Jiao Tong University in 2024.
@@ -53,7 +52,6 @@ Jing Ke, Yizhou Lu, Yiqing Shen, *Junchao Zhu*, et al., **Medical Image Analysis
 [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841523000191)
 
 ## 💼 Professional Experience
-
 **Ph.D. Intern – Data Science & Digital Health (DSAI)**, Johnson & Johnson(May 2025 – Aug 2025)  
 - Working on Vision–Language Models and multimodal foundation models for spatial transcriptomics.  
 - Developing hierarchical alignment frameworks between vision and omics modalities.  
@@ -77,10 +75,7 @@ Jing Ke, Yizhou Lu, Yiqing Shen, *Junchao Zhu*, et al., **Medical Image Analysis
 - 🎓 Jingding Biology Strengthening Basic Disciplines Program Scholarship  
 - ✈ Graduate School Travel Grant — Vanderbilt University, 2024–2025
 
----
-
 ## Technical Skills
-
 **Programming:** Python, MATLAB, R, LaTeX  
 **Frameworks:** PyTorch, Keras  
 **Tools:** Linux, Git, VS Code, PyCharm  
