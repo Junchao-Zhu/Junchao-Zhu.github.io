@@ -23,10 +23,12 @@ repository               : "Junchao-Zhu/Junchao-Zhu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "fig.jpg"
+  avatar           : "Profile.png"
   name             : "Junchao Zhu"
   pronouns         : "he/him"
-  bio              : "Ph.D. student in Computer Science @ Vanderbilt University. Researching computational pathology, spatial transcriptomics, and vision-language models."
+  bio: |
+    CS Ph.D. student @ Vanderbilt University.
+    B.Sc. @ Shanghai Jiao Tong University
   location         : "Nashville, TN, USA"
   employer         : "Vanderbilt University"
   uri              : "https://junchao-zhu.github.io"
