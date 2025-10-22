@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a first-year Ph.D. student in Computer Science at Vanderbilt University, supervised by Prof. Yuankai Huo.
 My research interests lie in medical image analysis, vision-language models, and computer vision, with a particular focus on developing efficient and interpretable deep learning frameworks for large-scale pathology image processing.
-Before joining Vanderbilt, I received my B.S. degree from the School of Life Sciences and Biotechnology at Shanghai Jiao Tong University** in 2024.
+Before joining Vanderbilt, I received my B.S. degree from the School of Life Sciences and Biotechnology at Shanghai Jiao Tong University in 2024.
 Outside of research, I enjoy baseball, cooking and fitness.
 
 ## 🎓 Academic Background
