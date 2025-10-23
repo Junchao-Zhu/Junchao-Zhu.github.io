@@ -13,7 +13,7 @@ Outside of research, I enjoy baseball, cooking and fitness.
 
 ## 🎓 Academic Background
 **2024.8 – present**  
-Ph.D. student in Computer Science, Vanderbilt University
+Ph.D. student in Computer Science, Vanderbilt University <br>
 Advisor: Prof. Yuankai Huo  
 
 **2020.9 – 2024.6**  
